@@ -59,6 +59,7 @@ const VALID_LICENSES = [
   "BSD-3-Clause",
   "BSD*",
   "BSD-like",
+  "0BSD",
 
   "CC0-1.0",
 
